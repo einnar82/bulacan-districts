@@ -1,0 +1,202 @@
+{
+  "districts": [
+    {
+      "id": 1,
+      "name": "1st District",
+      "municipalities": [
+        {
+          "name": "Bulakan",
+          "coordinates": {
+            "lat": 14.7943,
+            "lng": 120.8799
+          }
+        },
+        {
+          "name": "Calumpit",
+          "coordinates": {
+            "lat": 14.9011,
+            "lng": 120.7695
+          }
+        },
+        {
+          "name": "Hagonoy",
+          "coordinates": {
+            "lat": 14.7919,
+            "lng": 120.735
+          }
+        },
+        {
+          "name": "Malolos",
+          "coordinates": {
+            "lat": 14.8527,
+            "lng": 120.816
+          }
+        },
+        {
+          "name": "Paombong",
+          "coordinates": {
+            "lat": 14.8103,
+            "lng": 120.7867
+          }
+        },
+        {
+          "name": "Pulilan",
+          "coordinates": {
+            "lat": 14.9124,
+            "lng": 120.8458
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "2nd District",
+      "municipalities": [
+        {
+          "name": "Balagtas",
+          "coordinates": {
+            "lat": 14.8228,
+            "lng": 120.913
+          }
+        },
+        {
+          "name": "Baliuag",
+          "coordinates": {
+            "lat": 14.9672,
+            "lng": 120.8843
+          }
+        },
+        {
+          "name": "Bocaue",
+          "coordinates": {
+            "lat": 14.8072,
+            "lng": 120.9395
+          }
+        },
+        {
+          "name": "Bustos",
+          "coordinates": {
+            "lat": 14.9379,
+            "lng": 120.9276
+          }
+        },
+        {
+          "name": "Guiguinto",
+          "coordinates": {
+            "lat": 14.8624,
+            "lng": 120.8587
+          }
+        },
+        {
+          "name": "Pandi",
+          "coordinates": {
+            "lat": 14.8757,
+            "lng": 120.9593
+          }
+        },
+        {
+          "name": "Plaridel",
+          "coordinates": {
+            "lat": 14.8815,
+            "lng": 120.8671
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "3rd District",
+      "municipalities": [
+        {
+          "name": "Angat",
+          "coordinates": {
+            "lat": 14.938,
+            "lng": 121.0209
+          }
+        },
+        {
+          "name": "Doña Remedios Trinidad",
+          "coordinates": {
+            "lat": 15.1143,
+            "lng": 121.2168
+          }
+        },
+        {
+          "name": "Norzagaray",
+          "coordinates": {
+            "lat": 14.8745,
+            "lng": 121.1446
+          }
+        },
+        {
+          "name": "San Ildefonso",
+          "coordinates": {
+            "lat": 15.0418,
+            "lng": 121.0106
+          }
+        },
+        {
+          "name": "San Miguel",
+          "coordinates": {
+            "lat": 15.1664,
+            "lng": 121.0106
+          }
+        },
+        {
+          "name": "San Rafael",
+          "coordinates": {
+            "lat": 14.9985,
+            "lng": 120.9532
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "4th District",
+      "municipalities": [
+        {
+          "name": "Meycauayan",
+          "coordinates": {
+            "lat": 14.7499,
+            "lng": 120.9739
+          }
+        },
+        {
+          "name": "Marilao",
+          "coordinates": {
+            "lat": 14.7718,
+            "lng": 120.9587
+          }
+        },
+        {
+          "name": "Obando",
+          "coordinates": {
+            "lat": 14.7263,
+            "lng": 120.9253
+          }
+        },
+        {
+          "name": "Sta. Maria",
+          "coordinates": {
+            "lat": 14.8463,
+            "lng": 120.9991
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "5th District",
+      "municipalities": [
+        {
+          "name": "San Jose Del Monte",
+          "coordinates": {
+            "lat": 14.8143,
+            "lng": 121.0725
+          }
+        }
+      ]
+    }
+  ]
+}
