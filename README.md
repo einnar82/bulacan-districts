@@ -2,10 +2,10 @@
 
 Endpoints:
 
-- Get all municipalities via district - [http://bulacan-districts.herokuapp.com/districts](http://bulacan-districts.herokuapp.com/districts)
-- Get a selected district in Bulacan - [http://bulacan-districts.herokuapp.com/districts/:id](http://bulacan-districts.herokuapp.com/districts/1)
-- Get all municipalities in Bulacan -[http://bulacandistricts.herokuapp.com/municipalities](http://bulacan-districts.herokuapp.com/municipalities)
-- Get a selected municipality in Bulacan - [http://bulacan-districts.herokuapp.com/municipalities/:name](http://bulacan-districts.herokuapp.com/municipalities/malolos)
+- Get all municipalities via district - [https://bulacan-districts.herokuapp.com/districts](https://bulacan-districts.herokuapp.com/districts)
+- Get a selected district in Bulacan - [https://bulacan-districts.herokuapp.com/districts/:id](https://bulacan-districts.herokuapp.com/districts/1)
+- Get all municipalities in Bulacan -[https://bulacandistricts.herokuapp.com/municipalities](https://bulacan-districts.herokuapp.com/municipalities)
+- Get a selected municipality in Bulacan - [https://bulacan-districts.herokuapp.com/municipalities/:name](https://bulacan-districts.herokuapp.com/municipalities/malolos)
 
 ## Build Setup
 
